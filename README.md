@@ -7,9 +7,9 @@ Open the Client-Server application in NetBeans IDE
 
 ### 2. Add the Required JAR Libraries
 
-Add the shared JAR libraries to both the `Client` and `Server` projects.
+Add the shared JAR libraries to both the `Client` and `Server` projects
 
-Additionally, add the MySQL Connector JAR file to the `Server` project.
+Additionally, add the MySQL Connector JAR file to the `Server` project
 
 ### 3. Start XAMPP and the Database
 
