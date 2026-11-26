@@ -11,7 +11,7 @@ Add the shared JAR libraries to both the `Client` and `Server` projects
 
 Additionally, add the MySQL Connector jar file to the `Server` project
 
-### 3. Start xampp and the Database
+### 3. Start xampp and the database
 
 Open xampp Control Panel and start:
 
