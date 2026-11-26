@@ -1,19 +1,19 @@
 
-## Running the Client-Server Application
+## Running the client-server application
 
-### 1. Open the Project in NetBeans
+### 1. Open the project in NetBeans
 
-Open the Client-Server application in NetBeans IDE
+Open the client-server application in NetBeans IDE
 
-### 2. Add the Required JAR Libraries
+### 2. Add the required jar libraries
 
 Add the shared JAR libraries to both the `Client` and `Server` projects
 
-Additionally, add the MySQL Connector JAR file to the `Server` project
+Additionally, add the MySQL Connector jar file to the `Server` project
 
-### 3. Start XAMPP and the Database
+### 3. Start xampp and the Database
 
-Open XAMPP Control Panel and start:
+Open xampp Control Panel and start:
 
 - MySQL
 
